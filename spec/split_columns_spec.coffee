@@ -1,4 +1,4 @@
-require('../lib/split_columns.coffee')
+require('../src/split_columns.coffee')
 require 'angular-mocks'
 _ = require('lodash')
 

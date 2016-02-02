@@ -1,6 +1,6 @@
 {
   "name": "@djforth/split-columns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "@djforth/angular-jasmine-helpers": {
       "version": "1.0.7",
